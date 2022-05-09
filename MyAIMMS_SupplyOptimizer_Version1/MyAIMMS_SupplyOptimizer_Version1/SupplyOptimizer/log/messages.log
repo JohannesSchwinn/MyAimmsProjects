@@ -1,0 +1,30 @@
+﻿There is 89.746 Mb in use.
+The mandatory attribute "stage" is missing from variable "NonDelivery".
+The element 'F1' is not in the domain set "Location".
+The element 'F1' is not in the domain set "Location".
+The element 'Pl1' is not in the domain set "Location".
+The element 'Pl1' is not in the domain set "Location".
+The element 'DC3' is not in the domain set "Location".
+The element 'F1' is not in the domain set "Location".
+The element 'Pl1' is not in the domain set "Location".
+The element 'DC3' is not in the domain set "Location".
+The element 'F1' is not in the domain set "Location".
+The element 'Pl1' is not in the domain set "Location".
+The element 'Pl1' is not in the domain set "Location".
+Warning: The string parameter "pro::ModelName" is not initialized (default values are used).
+Warning at line 4 in user-defined function section "webui::GetCaseStorageServerPath":
+The string parameter "pro::ModelName" is not initialized (default values are used).
+Warning: The string parameter "pro::PROEnvironment" is not initialized (default values are used).
+Warning at line 4 in user-defined function section "webui::GetCaseStorageServerPath":
+The string parameter "pro::PROEnvironment" is not initialized (default values are used).
+Warning: The string parameter "pro::PROUserName" is not initialized (default values are used).
+Warning at line 4 in user-defined function section "webui::GetCaseStorageServerPath":
+The string parameter "pro::PROUserName" is not initialized (default values are used).
+The mandatory attribute "definition" is missing from constraint "TransportCapacityConstraints".
+The mandatory attribute "definition" is missing from constraint "TransportCapacityConstraints".
+The mandatory attribute "definition" is missing from constraint "TransportCapacityConstraints".
+The element F1 is not in the range set of the running index l.
+The element F1 is not in the range set of the running index l.
+The element F1 is not in the range set of the running index l.
+The element 'F1' is not in the domain set "Location".
+The element F1 is not in the range set of the running index l.

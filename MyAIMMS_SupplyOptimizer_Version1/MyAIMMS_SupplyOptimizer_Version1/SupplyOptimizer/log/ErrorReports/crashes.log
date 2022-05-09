@@ -1,0 +1,15 @@
+2022/05/06 20:00:25 : Generated crash report for 'Aimms 4.85.1.1 uni x64' with dumpfile 'C:\Users\jxsc\OneDrive - Camelot ITLab GmbH\Dokumente\MyAIMMSProjects\MyAIMMS_SupplyOptimizer_Version1\SupplyOptimizer\log\ErrorReports\Aimms_x64_uni_4.85.1.1_20220506_180019_1.dmp'
+2022/05/06 20:01:59 : Transmitting error report to 'http://dumpreport.aimms.com/gsoap/mod_gsoap.dll?DumpFileService' using email='jxsc@camelot-itlab.com' and comment='start optimization'
+2022/05/06 20:02:30 : Error report was succesfully received and queued with ID: 2022050618023153
+2022/05/06 20:02:30 : Removing dump file
+2022/05/06 20:02:49 : Generated crash report for 'Aimms 4.85.1.1 uni x64' with dumpfile 'C:\Users\jxsc\OneDrive - Camelot ITLab GmbH\Dokumente\MyAIMMSProjects\MyAIMMS_SupplyOptimizer_Version1\SupplyOptimizer\log\ErrorReports\Aimms_x64_uni_4.85.1.1_20220506_180240_2.dmp'
+2022/05/06 20:02:58 : Transmitting error report to 'http://dumpreport.aimms.com/gsoap/mod_gsoap.dll?DumpFileService' using email='jxsc@camelot-itlab.com' and comment=''
+2022/05/06 20:03:36 : Error report was succesfully received and queued with ID: 2022050618033700
+2022/05/06 20:03:36 : Removing dump file
+2022/05/06 20:03:55 : Generated crash report for 'Aimms 4.85.1.1 uni x64' with dumpfile 'C:\Users\jxsc\OneDrive - Camelot ITLab GmbH\Dokumente\MyAIMMSProjects\MyAIMMS_SupplyOptimizer_Version1\SupplyOptimizer\log\ErrorReports\Aimms_x64_uni_4.85.1.1_20220506_180346_3.dmp'
+2022/05/06 20:03:57 : Not transmitting error report
+2022/05/06 20:04:05 : Generated crash report for 'Aimms 4.85.1.1 uni x64' with dumpfile 'C:\Users\jxsc\OneDrive - Camelot ITLab GmbH\Dokumente\MyAIMMSProjects\MyAIMMS_SupplyOptimizer_Version1\SupplyOptimizer\log\ErrorReports\Aimms_x64_uni_4.85.1.1_20220506_180357_4.dmp'
+2022/05/08 19:57:01 : Generated crash report for 'Aimms 4.85.1.1 uni x64' with dumpfile 'C:\Users\jxsc\OneDrive - Camelot ITLab GmbH\Dokumente\MyAIMMSProjects\MyAIMMS_SupplyOptimizer_Version1\SupplyOptimizer\log\ErrorReports\Aimms_x64_uni_4.85.1.1_20220508_175654_1.dmp'
+2022/05/08 19:57:06 : Transmitting error report to 'http://dumpreport.aimms.com/gsoap/mod_gsoap.dll?DumpFileService' using email='jxsc@camelot-itlab.com' and comment=''
+2022/05/08 19:57:07 : Error report was succesfully received and queued with ID: 2022050817570730
+2022/05/08 19:57:07 : Removing dump file

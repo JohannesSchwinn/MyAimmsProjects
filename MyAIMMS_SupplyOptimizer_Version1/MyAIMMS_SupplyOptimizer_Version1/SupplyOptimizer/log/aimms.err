@@ -1,0 +1,54 @@
+The mandatory attribute "stage" is missing from variable "NonDelivery".
+Execution error at line 1 in the initial data of parameter "TransportationCost".
+The element 'F1' is not in the domain set "Location".
+Execution error at line 1 in the initial data of parameter "TransportationCapacity".
+The element 'F1' is not in the domain set "Location".
+Execution error at line 1 in the initial data of parameter "MinTargetStock".
+The element 'Pl1' is not in the domain set "Location".
+Execution error at line 1 in the initial data of parameter "MaxTargetStock".
+The element 'Pl1' is not in the domain set "Location".
+Execution error at line 1 in the initial data of parameter "DemandLateDeliveryCost".
+The element 'DC3' is not in the domain set "Location".
+Execution error at line 1 in the initial data of parameter "TransportCapacity".
+The element 'F1' is not in the domain set "Location".
+Execution error at line 1 in the initial data of parameter "InitialStock".
+The element 'Pl1' is not in the domain set "Location".
+Execution error at line 1 in the initial data of parameter "LateDeliveryCost".
+The element 'DC3' is not in the domain set "Location".
+Execution error at line 1 in the initial data of parameter "TransportCost".
+The element 'F1' is not in the domain set "Location".
+Execution error at line 1 in the initial data of parameter "PenaltyBelowMinTargetStock".
+The element 'Pl1' is not in the domain set "Location".
+Execution error at line 1 in the initial data of parameter "PenaltyAboveMaxTargetStock".
+The element 'Pl1' is not in the domain set "Location".
+Execution error at line 1 in the dll name of user-defined function section "pro::management::IsInitialized", column 1.
+The mandatory attribute "name" is missing from string parameter "pro::ModelDLLPath".
+Execution error at line 1 in the dll name of user-defined function section "pro::management::IsInitialized", column 1.
+The mandatory attribute "name" is missing from string parameter "pro::ModelDLLPath".
+Warning at line 4 in user-defined function section "webui::GetCaseStorageServerPath".
+The string parameter "pro::ModelName" is not initialized (default values are used).
+Warning at line 4 in user-defined function section "webui::GetCaseStorageServerPath".
+The string parameter "pro::PROEnvironment" is not initialized (default values are used).
+Warning at line 4 in user-defined function section "webui::GetCaseStorageServerPath".
+The string parameter "pro::PROUserName" is not initialized (default values are used).
+Execution error at line 1 in the dll name of user-defined function section "pro::management::IsInitialized", column 1.
+The mandatory attribute "name" is missing from string parameter "pro::ModelDLLPath".
+Execution error at line 1 in the dll name of user-defined function section "pro::management::IsInitialized", column 1.
+The mandatory attribute "name" is missing from string parameter "pro::ModelDLLPath".
+A DataChangeMonitor with ID DataChangeMonitor001 does not exist.
+Execution error at line 1 in the dll name of user-defined function section "pro::management::IsInitialized", column 1.
+The mandatory attribute "name" is missing from string parameter "pro::ModelDLLPath".
+Semantic error at line 1 in the definition of constraint "TransportCapacityConstraints".
+The mandatory attribute "definition" is missing from constraint "TransportCapacityConstraints".
+The mandatory attribute "definition" is missing from constraint "TransportCapacityConstraints".
+The mandatory attribute "definition" is missing from constraint "TransportCapacityConstraints".
+Execution error at line 3 in user-defined function section "MainExecution" (while evaluating the definition of parameter "TransportCapacity").
+The element F1 is not in the range set of the running index l.
+Execution error at line 3 in user-defined function section "MainExecution" (while evaluating the definition of parameter "TransportCapacity").
+The element F1 is not in the range set of the running index l.
+Execution error while evaluating the definition of parameter "TransportCapacity".
+The element F1 is not in the range set of the running index l.
+Execution error at line 1 in the initial data of parameter "InventoryCost".
+The element 'F1' is not in the domain set "Location".
+Execution error at line 3 in user-defined function section "MainExecution" (while evaluating the definition of parameter "TransportCapacity").
+The element F1 is not in the range set of the running index l.
